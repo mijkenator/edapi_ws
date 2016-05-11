@@ -1,0 +1,8 @@
+.eunit
+*.beam
+ebin
+doc
+deps/*
+*.swp
+*.dump
+log/*
